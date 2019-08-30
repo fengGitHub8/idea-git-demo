@@ -9,4 +9,5 @@ package com.demo.ideagitdemo.bean;
 public class Car {
     private String name;
     private Double price;
+    private String type;
 }

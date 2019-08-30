@@ -7,4 +7,6 @@ package com.demo.ideagitdemo.bean;
  * @create: 2019-08-30 10:10
  **/
 public class Car {
+    private String name;
+    private Double price;
 }
